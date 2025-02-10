@@ -36,6 +36,6 @@ This repository is an evolving project aimed at enhancing the performance valida
 
 ---
 
-**Developed with 🚀 by Tinsae Tesfamichael**
+**Developed by Tinsae Tesfamichael**
 
 

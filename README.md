@@ -3,7 +3,7 @@
 
 ## 📡 Introduction
 
-Welcome to the GitHub repository for the **Sun-Pointing Attitude Regulation Assembly (SARA) Torque Measurement Testing Jig**. This project focuses on the conceptual and functional design of a specialized testing jig developed to measure the torque output of the stepper motor-driven mechanism in SARA, a CubeSat subsystem designed to optimize solar energy intake through precise sun-tracking capabilities.
+Welcome to the GitHub repository for the **CubeSat SARA solar tracking and Torque Measurement Testing Jig**. This project focuses on the conceptual and functional design of a specialized testing jig developed to measure the torque output of the stepper motor-driven mechanism in SARA, a CubeSat subsystem designed to optimize solar energy intake through precise sun-tracking capabilities.
 
 The testing jig is engineered based on **Advanced Mechanical Design Methods**, ensuring accurate, repeatable, and reliable performance validation. The system simulates real-world load conditions encountered in space while eliminating environmental interferences like temperature fluctuations and gravitational effects.
 

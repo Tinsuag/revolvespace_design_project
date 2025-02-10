@@ -1,5 +1,4 @@
 # revolvespace_design_project
-# SARA Torque Measurement Testing Jig
 
 ## 📡 Introduction
 
